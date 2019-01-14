@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/EvolutionThroughCraft/Broker.git
+	branch = master
+	commit = 01018873277fa428956d873d09673d344fa3275f
+	parent = 05603fddf8d2f033d1830e42d9774549e0f45e22
+	method = merge
+	cmdver = 0.4.0
