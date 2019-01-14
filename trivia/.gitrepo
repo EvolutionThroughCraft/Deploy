@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/EvolutionThroughCraft/Trivia.git
+	branch = master
+	commit = 0f2d029cf0d2a0726fe0e4ba6ac2bbb81795d7b4
+	parent = cbbe7f89d1f42c6c655a3d36c22cf58d540f4a89
+	method = merge
+	cmdver = 0.4.0
