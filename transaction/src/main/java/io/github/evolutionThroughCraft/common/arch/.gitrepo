@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/EvolutionThroughCraft/CommonArchitecture.git
+	branch = master
+	commit = a91f1bdda2dfa44115213cc2e671f9aabed596e8
+	parent = 2753a0f8cedc5bdb318ff59c8e9d26ecfc53cf0d
+	method = merge
+	cmdver = 0.4.0
