@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/EvolutionThroughCraft/ConfigurationServer.git
+	branch = master
+	commit = 2e1507655ff9813a2e2c6d825b2321201dec6199
+	parent = 9bdab9418ac0cce6c5424771387c8f168b9ed026
+	method = merge
+	cmdver = 0.4.0
